@@ -11,7 +11,7 @@ using namespace std;
 there are (n + m - 1) groups
 => take each diagonal in the matrix
 
-	0 1 2 3 4 5 6
+    0 1 2 3 4 5 6
    ---------------
 0 | 1 0 1 1 1 1 1
 1 | 0 0 0 0 0 0 0
